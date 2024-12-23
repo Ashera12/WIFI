@@ -1,7 +1,7 @@
 ## DDOS WIFI
 
 
-# From HandTy
+# From Ashera
 
 
 https://github.com/user-attachments/assets/a94af719-e7f0-4a9c-9685-8f8877a1bf17
@@ -30,7 +30,7 @@ As the Internet of Things (IoT) continues to proliferate, as do the number of re
 ## Installing (Kali Linux) :
 
 ```
-git clone https://github.com/HandTy/WIFI
+git clone https://github.com/Ashera12/WIFI
 cd ddos-wifi
 sudo python3 ddoswifi.py
 ```
