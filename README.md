@@ -31,6 +31,6 @@ As the Internet of Things (IoT) continues to proliferate, as do the number of re
 
 ```
 git clone https://github.com/Ashera12/WIFI
-cd ddos-wifi
+cd WIFI
 sudo python3 ddoswifi.py
 ```
